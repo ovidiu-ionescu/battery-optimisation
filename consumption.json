@@ -1,0 +1,484 @@
+{
+  "forecasts": [
+    {
+      "start": "2022-12-12T23:00:00Z",
+      "end": "2022-12-12T23:15:00Z",
+      "consumption_average_power_interval": 4656000
+    },
+    {
+      "start": "2022-12-12T23:15:00Z",
+      "end": "2022-12-12T23:30:00Z",
+      "consumption_average_power_interval": 4528000
+    },
+    {
+      "start": "2022-12-12T23:30:00Z",
+      "end": "2022-12-12T23:45:00Z",
+      "consumption_average_power_interval": 4464000
+    },
+    {
+      "start": "2022-12-12T23:45:00Z",
+      "end": "2022-12-13T00:00:00Z",
+      "consumption_average_power_interval": 4560000
+    },
+    {
+      "start": "2022-12-13T00:00:00Z",
+      "end": "2022-12-13T00:15:00Z",
+      "consumption_average_power_interval": 4656000
+    },
+    {
+      "start": "2022-12-13T00:15:00Z",
+      "end": "2022-12-13T00:30:00Z",
+      "consumption_average_power_interval": 4512000
+    },
+    {
+      "start": "2022-12-13T00:30:00Z",
+      "end": "2022-12-13T00:45:00Z",
+      "consumption_average_power_interval": 4544000
+    },
+    {
+      "start": "2022-12-13T00:45:00Z",
+      "end": "2022-12-13T01:00:00Z",
+      "consumption_average_power_interval": 4496000
+    },
+    {
+      "start": "2022-12-13T01:00:00Z",
+      "end": "2022-12-13T01:15:00Z",
+      "consumption_average_power_interval": 4592000
+    },
+    {
+      "start": "2022-12-13T01:15:00Z",
+      "end": "2022-12-13T01:30:00Z",
+      "consumption_average_power_interval": 4608000
+    },
+    {
+      "start": "2022-12-13T01:30:00Z",
+      "end": "2022-12-13T01:45:00Z",
+      "consumption_average_power_interval": 4528000
+    },
+    {
+      "start": "2022-12-13T01:45:00Z",
+      "end": "2022-12-13T02:00:00Z",
+      "consumption_average_power_interval": 4592000
+    },
+    {
+      "start": "2022-12-13T02:00:00Z",
+      "end": "2022-12-13T02:15:00Z",
+      "consumption_average_power_interval": 4640000
+    },
+    {
+      "start": "2022-12-13T02:15:00Z",
+      "end": "2022-12-13T02:30:00Z",
+      "consumption_average_power_interval": 4592000
+    },
+    {
+      "start": "2022-12-13T02:30:00Z",
+      "end": "2022-12-13T02:45:00Z",
+      "consumption_average_power_interval": 4544000
+    },
+    {
+      "start": "2022-12-13T02:45:00Z",
+      "end": "2022-12-13T03:00:00Z",
+      "consumption_average_power_interval": 4656000
+    },
+    {
+      "start": "2022-12-13T03:00:00Z",
+      "end": "2022-12-13T03:15:00Z",
+      "consumption_average_power_interval": 4608000
+    },
+    {
+      "start": "2022-12-13T03:15:00Z",
+      "end": "2022-12-13T03:30:00Z",
+      "consumption_average_power_interval": 4624000
+    },
+    {
+      "start": "2022-12-13T03:30:00Z",
+      "end": "2022-12-13T03:45:00Z",
+      "consumption_average_power_interval": 4656000
+    },
+    {
+      "start": "2022-12-13T03:45:00Z",
+      "end": "2022-12-13T04:00:00Z",
+      "consumption_average_power_interval": 4592000
+    },
+    {
+      "start": "2022-12-13T04:00:00Z",
+      "end": "2022-12-13T04:15:00Z",
+      "consumption_average_power_interval": 4768000
+    },
+    {
+      "start": "2022-12-13T04:15:00Z",
+      "end": "2022-12-13T04:30:00Z",
+      "consumption_average_power_interval": 4832000
+    },
+    {
+      "start": "2022-12-13T04:30:00Z",
+      "end": "2022-12-13T04:45:00Z",
+      "consumption_average_power_interval": 4832000
+    },
+    {
+      "start": "2022-12-13T04:45:00Z",
+      "end": "2022-12-13T05:00:00Z",
+      "consumption_average_power_interval": 4992000
+    },
+    {
+      "start": "2022-12-13T05:00:00Z",
+      "end": "2022-12-13T05:15:00Z",
+      "consumption_average_power_interval": 5232000
+    },
+    {
+      "start": "2022-12-13T05:15:00Z",
+      "end": "2022-12-13T05:30:00Z",
+      "consumption_average_power_interval": 5376000
+    },
+    {
+      "start": "2022-12-13T05:30:00Z",
+      "end": "2022-12-13T05:45:00Z",
+      "consumption_average_power_interval": 5536000
+    },
+    {
+      "start": "2022-12-13T05:45:00Z",
+      "end": "2022-12-13T06:00:00Z",
+      "consumption_average_power_interval": 5696000
+    },
+    {
+      "start": "2022-12-13T06:00:00Z",
+      "end": "2022-12-13T06:15:00Z",
+      "consumption_average_power_interval": 6192000
+    },
+    {
+      "start": "2022-12-13T06:15:00Z",
+      "end": "2022-12-13T06:30:00Z",
+      "consumption_average_power_interval": 6496000
+    },
+    {
+      "start": "2022-12-13T06:30:00Z",
+      "end": "2022-12-13T06:45:00Z",
+      "consumption_average_power_interval": 6656000
+    },
+    {
+      "start": "2022-12-13T06:45:00Z",
+      "end": "2022-12-13T07:00:00Z",
+      "consumption_average_power_interval": 6960000
+    },
+    {
+      "start": "2022-12-13T07:00:00Z",
+      "end": "2022-12-13T07:15:00Z",
+      "consumption_average_power_interval": 7248000
+    },
+    {
+      "start": "2022-12-13T07:15:00Z",
+      "end": "2022-12-13T07:30:00Z",
+      "consumption_average_power_interval": 7440000
+    },
+    {
+      "start": "2022-12-13T07:30:00Z",
+      "end": "2022-12-13T07:45:00Z",
+      "consumption_average_power_interval": 7632000
+    },
+    {
+      "start": "2022-12-13T07:45:00Z",
+      "end": "2022-12-13T08:00:00Z",
+      "consumption_average_power_interval": 7872000
+    },
+    {
+      "start": "2022-12-13T08:00:00Z",
+      "end": "2022-12-13T08:15:00Z",
+      "consumption_average_power_interval": 7968000
+    },
+    {
+      "start": "2022-12-13T08:15:00Z",
+      "end": "2022-12-13T08:30:00Z",
+      "consumption_average_power_interval": 8000000
+    },
+    {
+      "start": "2022-12-13T08:30:00Z",
+      "end": "2022-12-13T08:45:00Z",
+      "consumption_average_power_interval": 7968000
+    },
+    {
+      "start": "2022-12-13T08:45:00Z",
+      "end": "2022-12-13T09:00:00Z",
+      "consumption_average_power_interval": 8016000
+    },
+    {
+      "start": "2022-12-13T09:00:00Z",
+      "end": "2022-12-13T09:15:00Z",
+      "consumption_average_power_interval": 8112000
+    },
+    {
+      "start": "2022-12-13T09:15:00Z",
+      "end": "2022-12-13T09:30:00Z",
+      "consumption_average_power_interval": 8000000
+    },
+    {
+      "start": "2022-12-13T09:30:00Z",
+      "end": "2022-12-13T09:45:00Z",
+      "consumption_average_power_interval": 8144000
+    },
+    {
+      "start": "2022-12-13T09:45:00Z",
+      "end": "2022-12-13T10:00:00Z",
+      "consumption_average_power_interval": 8016000
+    },
+    {
+      "start": "2022-12-13T10:00:00Z",
+      "end": "2022-12-13T10:15:00Z",
+      "consumption_average_power_interval": 8016000
+    },
+    {
+      "start": "2022-12-13T10:15:00Z",
+      "end": "2022-12-13T10:30:00Z",
+      "consumption_average_power_interval": 8016000
+    },
+    {
+      "start": "2022-12-13T10:30:00Z",
+      "end": "2022-12-13T10:45:00Z",
+      "consumption_average_power_interval": 7904000
+    },
+    {
+      "start": "2022-12-13T10:45:00Z",
+      "end": "2022-12-13T11:00:00Z",
+      "consumption_average_power_interval": 7872000
+    },
+    {
+      "start": "2022-12-13T11:00:00Z",
+      "end": "2022-12-13T11:15:00Z",
+      "consumption_average_power_interval": 7904000
+    },
+    {
+      "start": "2022-12-13T11:15:00Z",
+      "end": "2022-12-13T11:30:00Z",
+      "consumption_average_power_interval": 7856000
+    },
+    {
+      "start": "2022-12-13T11:30:00Z",
+      "end": "2022-12-13T11:45:00Z",
+      "consumption_average_power_interval": 7792000
+    },
+    {
+      "start": "2022-12-13T11:45:00Z",
+      "end": "2022-12-13T12:00:00Z",
+      "consumption_average_power_interval": 7792000
+    },
+    {
+      "start": "2022-12-13T12:00:00Z",
+      "end": "2022-12-13T12:15:00Z",
+      "consumption_average_power_interval": 7712000
+    },
+    {
+      "start": "2022-12-13T12:15:00Z",
+      "end": "2022-12-13T12:30:00Z",
+      "consumption_average_power_interval": 7744000
+    },
+    {
+      "start": "2022-12-13T12:30:00Z",
+      "end": "2022-12-13T12:45:00Z",
+      "consumption_average_power_interval": 7840000
+    },
+    {
+      "start": "2022-12-13T12:45:00Z",
+      "end": "2022-12-13T13:00:00Z",
+      "consumption_average_power_interval": 7920000
+    },
+    {
+      "start": "2022-12-13T13:00:00Z",
+      "end": "2022-12-13T13:15:00Z",
+      "consumption_average_power_interval": 7840000
+    },
+    {
+      "start": "2022-12-13T13:15:00Z",
+      "end": "2022-12-13T13:30:00Z",
+      "consumption_average_power_interval": 7872000
+    },
+    {
+      "start": "2022-12-13T13:30:00Z",
+      "end": "2022-12-13T13:45:00Z",
+      "consumption_average_power_interval": 7744000
+    },
+    {
+      "start": "2022-12-13T13:45:00Z",
+      "end": "2022-12-13T14:00:00Z",
+      "consumption_average_power_interval": 7840000
+    },
+    {
+      "start": "2022-12-13T14:00:00Z",
+      "end": "2022-12-13T14:15:00Z",
+      "consumption_average_power_interval": 7968000
+    },
+    {
+      "start": "2022-12-13T14:15:00Z",
+      "end": "2022-12-13T14:30:00Z",
+      "consumption_average_power_interval": 7952000
+    },
+    {
+      "start": "2022-12-13T14:30:00Z",
+      "end": "2022-12-13T14:45:00Z",
+      "consumption_average_power_interval": 7904000
+    },
+    {
+      "start": "2022-12-13T14:45:00Z",
+      "end": "2022-12-13T15:00:00Z",
+      "consumption_average_power_interval": 7872000
+    },
+    {
+      "start": "2022-12-13T15:00:00Z",
+      "end": "2022-12-13T15:15:00Z",
+      "consumption_average_power_interval": 7696000
+    },
+    {
+      "start": "2022-12-13T15:15:00Z",
+      "end": "2022-12-13T15:30:00Z",
+      "consumption_average_power_interval": 7840000
+    },
+    {
+      "start": "2022-12-13T15:30:00Z",
+      "end": "2022-12-13T15:45:00Z",
+      "consumption_average_power_interval": 7728000
+    },
+    {
+      "start": "2022-12-13T15:45:00Z",
+      "end": "2022-12-13T16:00:00Z",
+      "consumption_average_power_interval": 7648000
+    },
+    {
+      "start": "2022-12-13T16:00:00Z",
+      "end": "2022-12-13T16:15:00Z",
+      "consumption_average_power_interval": 7552000
+    },
+    {
+      "start": "2022-12-13T16:15:00Z",
+      "end": "2022-12-13T16:30:00Z",
+      "consumption_average_power_interval": 7472000
+    },
+    {
+      "start": "2022-12-13T16:30:00Z",
+      "end": "2022-12-13T16:45:00Z",
+      "consumption_average_power_interval": 7264000
+    },
+    {
+      "start": "2022-12-13T16:45:00Z",
+      "end": "2022-12-13T17:00:00Z",
+      "consumption_average_power_interval": 7072000
+    },
+    {
+      "start": "2022-12-13T17:00:00Z",
+      "end": "2022-12-13T17:15:00Z",
+      "consumption_average_power_interval": 7024000
+    },
+    {
+      "start": "2022-12-13T17:15:00Z",
+      "end": "2022-12-13T17:30:00Z",
+      "consumption_average_power_interval": 6960000
+    },
+    {
+      "start": "2022-12-13T17:30:00Z",
+      "end": "2022-12-13T17:45:00Z",
+      "consumption_average_power_interval": 6784000
+    },
+    {
+      "start": "2022-12-13T17:45:00Z",
+      "end": "2022-12-13T18:00:00Z",
+      "consumption_average_power_interval": 6640000
+    },
+    {
+      "start": "2022-12-13T18:00:00Z",
+      "end": "2022-12-13T18:15:00Z",
+      "consumption_average_power_interval": 6480000
+    },
+    {
+      "start": "2022-12-13T18:15:00Z",
+      "end": "2022-12-13T18:30:00Z",
+      "consumption_average_power_interval": 6448000
+    },
+    {
+      "start": "2022-12-13T18:30:00Z",
+      "end": "2022-12-13T18:45:00Z",
+      "consumption_average_power_interval": 6512000
+    },
+    {
+      "start": "2022-12-13T18:45:00Z",
+      "end": "2022-12-13T19:00:00Z",
+      "consumption_average_power_interval": 6432000
+    },
+    {
+      "start": "2022-12-13T19:00:00Z",
+      "end": "2022-12-13T19:15:00Z",
+      "consumption_average_power_interval": 6368000
+    },
+    {
+      "start": "2022-12-13T19:15:00Z",
+      "end": "2022-12-13T19:30:00Z",
+      "consumption_average_power_interval": 6336000
+    },
+    {
+      "start": "2022-12-13T19:30:00Z",
+      "end": "2022-12-13T19:45:00Z",
+      "consumption_average_power_interval": 6272000
+    },
+    {
+      "start": "2022-12-13T19:45:00Z",
+      "end": "2022-12-13T20:00:00Z",
+      "consumption_average_power_interval": 6224000
+    },
+    {
+      "start": "2022-12-13T20:00:00Z",
+      "end": "2022-12-13T20:15:00Z",
+      "consumption_average_power_interval": 6000000
+    },
+    {
+      "start": "2022-12-13T20:15:00Z",
+      "end": "2022-12-13T20:30:00Z",
+      "consumption_average_power_interval": 6048000
+    },
+    {
+      "start": "2022-12-13T20:30:00Z",
+      "end": "2022-12-13T20:45:00Z",
+      "consumption_average_power_interval": 6000000
+    },
+    {
+      "start": "2022-12-13T20:45:00Z",
+      "end": "2022-12-13T21:00:00Z",
+      "consumption_average_power_interval": 5952000
+    },
+    {
+      "start": "2022-12-13T21:00:00Z",
+      "end": "2022-12-13T21:15:00Z",
+      "consumption_average_power_interval": 5696000
+    },
+    {
+      "start": "2022-12-13T21:15:00Z",
+      "end": "2022-12-13T21:30:00Z",
+      "consumption_average_power_interval": 5552000
+    },
+    {
+      "start": "2022-12-13T21:30:00Z",
+      "end": "2022-12-13T21:45:00Z",
+      "consumption_average_power_interval": 5360000
+    },
+    {
+      "start": "2022-12-13T21:45:00Z",
+      "end": "2022-12-13T22:00:00Z",
+      "consumption_average_power_interval": 5296000
+    },
+    {
+      "start": "2022-12-13T22:00:00Z",
+      "end": "2022-12-13T22:15:00Z",
+      "consumption_average_power_interval": 5040000
+    },
+    {
+      "start": "2022-12-13T22:15:00Z",
+      "end": "2022-12-13T22:30:00Z",
+      "consumption_average_power_interval": 4928000
+    },
+    {
+      "start": "2022-12-13T22:30:00Z",
+      "end": "2022-12-13T22:45:00Z",
+      "consumption_average_power_interval": 4896000
+    },
+    {
+      "start": "2022-12-13T22:45:00Z",
+      "end": "2022-12-13T23:00:00Z",
+      "consumption_average_power_interval": 4832000
+    }
+  ]
+}

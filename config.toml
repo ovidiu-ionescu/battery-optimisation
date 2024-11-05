@@ -1,0 +1,7 @@
+max_consumption = 7_850_000
+battery_capacity = 500_000
+battery_max_charge = 400_000
+battery_initial_charge = 250_000
+battery_efficiency = 0.9
+# how much charge is left in the battery at the end of the simulation. Put 0 if you don't care.
+battery_final_charge = 250_000

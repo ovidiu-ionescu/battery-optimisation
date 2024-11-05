@@ -1,0 +1,149 @@
+{
+  "bidding_zone": "NL",
+  "prices": [
+    {
+      "start": "2022-12-12T23:00:00Z",
+      "end": "2022-12-13T00:00:00Z",
+      "market_price_currency": "EUR",
+      "market_price_per_kwh": 0.3057
+    },
+    {
+      "start": "2022-12-13T00:00:00Z",
+      "end": "2022-12-13T01:00:00Z",
+      "market_price_currency": "EUR",
+      "market_price_per_kwh": 0.28752
+    },
+    {
+      "start": "2022-12-13T01:00:00Z",
+      "end": "2022-12-13T02:00:00Z",
+      "market_price_currency": "EUR",
+      "market_price_per_kwh": 0.28469
+    },
+    {
+      "start": "2022-12-13T02:00:00Z",
+      "end": "2022-12-13T03:00:00Z",
+      "market_price_currency": "EUR",
+      "market_price_per_kwh": 0.27583
+    },
+    {
+      "start": "2022-12-13T03:00:00Z",
+      "end": "2022-12-13T04:00:00Z",
+      "market_price_currency": "EUR",
+      "market_price_per_kwh": 0.2823
+    },
+    {
+      "start": "2022-12-13T04:00:00Z",
+      "end": "2022-12-13T05:00:00Z",
+      "market_price_currency": "EUR",
+      "market_price_per_kwh": 0.31607
+    },
+    {
+      "start": "2022-12-13T05:00:00Z",
+      "end": "2022-12-13T06:00:00Z",
+      "market_price_currency": "EUR",
+      "market_price_per_kwh": 0.3689
+    },
+    {
+      "start": "2022-12-13T06:00:00Z",
+      "end": "2022-12-13T07:00:00Z",
+      "market_price_currency": "EUR",
+      "market_price_per_kwh": 0.4997
+    },
+    {
+      "start": "2022-12-13T07:00:00Z",
+      "end": "2022-12-13T08:00:00Z",
+      "market_price_currency": "EUR",
+      "market_price_per_kwh": 0.57176
+    },
+    {
+      "start": "2022-12-13T08:00:00Z",
+      "end": "2022-12-13T09:00:00Z",
+      "market_price_currency": "EUR",
+      "market_price_per_kwh": 0.55329
+    },
+    {
+      "start": "2022-12-13T09:00:00Z",
+      "end": "2022-12-13T10:00:00Z",
+      "market_price_currency": "EUR",
+      "market_price_per_kwh": 0.48627
+    },
+    {
+      "start": "2022-12-13T10:00:00Z",
+      "end": "2022-12-13T11:00:00Z",
+      "market_price_currency": "EUR",
+      "market_price_per_kwh": 0.4489
+    },
+    {
+      "start": "2022-12-13T11:00:00Z",
+      "end": "2022-12-13T12:00:00Z",
+      "market_price_currency": "EUR",
+      "market_price_per_kwh": 0.45998
+    },
+    {
+      "start": "2022-12-13T12:00:00Z",
+      "end": "2022-12-13T13:00:00Z",
+      "market_price_currency": "EUR",
+      "market_price_per_kwh": 0.50603
+    },
+    {
+      "start": "2022-12-13T13:00:00Z",
+      "end": "2022-12-13T14:00:00Z",
+      "market_price_currency": "EUR",
+      "market_price_per_kwh": 0.55271
+    },
+    {
+      "start": "2022-12-13T14:00:00Z",
+      "end": "2022-12-13T15:00:00Z",
+      "market_price_currency": "EUR",
+      "market_price_per_kwh": 0.57025
+    },
+    {
+      "start": "2022-12-13T15:00:00Z",
+      "end": "2022-12-13T16:00:00Z",
+      "market_price_currency": "EUR",
+      "market_price_per_kwh": 0.59
+    },
+    {
+      "start": "2022-12-13T16:00:00Z",
+      "end": "2022-12-13T17:00:00Z",
+      "market_price_currency": "EUR",
+      "market_price_per_kwh": 0.66501
+    },
+    {
+      "start": "2022-12-13T17:00:00Z",
+      "end": "2022-12-13T18:00:00Z",
+      "market_price_currency": "EUR",
+      "market_price_per_kwh": 0.56015
+    },
+    {
+      "start": "2022-12-13T18:00:00Z",
+      "end": "2022-12-13T19:00:00Z",
+      "market_price_currency": "EUR",
+      "market_price_per_kwh": 0.51657
+    },
+    {
+      "start": "2022-12-13T19:00:00Z",
+      "end": "2022-12-13T20:00:00Z",
+      "market_price_currency": "EUR",
+      "market_price_per_kwh": 0.3999
+    },
+    {
+      "start": "2022-12-13T20:00:00Z",
+      "end": "2022-12-13T21:00:00Z",
+      "market_price_currency": "EUR",
+      "market_price_per_kwh": 0.34144
+    },
+    {
+      "start": "2022-12-13T21:00:00Z",
+      "end": "2022-12-13T22:00:00Z",
+      "market_price_currency": "EUR",
+      "market_price_per_kwh": 0.30169
+    },
+    {
+      "start": "2022-12-13T22:00:00Z",
+      "end": "2022-12-13T23:00:00Z",
+      "market_price_currency": "EUR",
+      "market_price_per_kwh": 0.28308
+    }
+  ]
+}
